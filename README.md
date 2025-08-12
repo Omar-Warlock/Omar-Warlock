@@ -37,7 +37,6 @@
 
 ### <img src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="25" /> GitHub Stats:
 ![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=omarmahmoud&show_icons=true&title_color=00bfff&icon_color=00ff99&text_color=ffffff&bg_color=151515&count_private=true&include_all_commits=true)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omarmahmoud&theme=dark)](https://git.io/streak-stats)
 
 ---
 
